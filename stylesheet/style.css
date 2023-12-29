@@ -1,0 +1,21 @@
+* { margin: 0; padding: 0; border: 0; font-size: 100%; vertical-align: baseline; box-sizing: border-box;}
+*:focus, *:active {outline: none}
+/*main color: #e6595c */
+/*main background-color: #fff0f0*/
+/*accent color: #3f3d56 */
+/*accent background-color: #efeeec*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+body, html {
+  width:100%;
+  height:100%;
+  background:#ddd;
+  font-family: 'Montserrat', sans-serif;
+  font-size:99px;
+  text-align:center;
+}
+
+div {
+  position:absolute;
+}
+
